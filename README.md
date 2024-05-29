@@ -1,16 +1,17 @@
 # [Suno Ai Free](https://sunoaifree.com/)
 
 
-## Home
+## Home & Profit
 
-![Home](./images/home.jpg)
+![](./images/home.jpg)
+![](./images/stripe-1.jpg)
 
 
 ## Description
 
 Suno Ai Free was launched around April this year; it is currently a project that has been validated and made profitable in overseas markets. With an awareness of open source and collaboration, we hope to incubate superior commercialized projects based on this open-source project, to better meet the demands of overseas markets. All code is completely open-source and usable.
 
-![](./images/stripe-1.jpg)
+Updates on functionality will be synchronized here.
 
 
 ## One-Click Deploy
@@ -32,4 +33,6 @@ Suno Ai Free is built on the following stack:
 - [Daisyui](https://daisyui.com/)
 
 
+## Contact Me
 
+Email：zb16601128171@gmail.com
